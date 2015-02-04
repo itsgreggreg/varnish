@@ -63,7 +63,7 @@ hi WarningMsg guifg=#000000 guibg=#cdcecd guisp=#cdcecd gui=NONE ctermfg=NONE ct
 "hi DiffDelete -- no settings --
 hi ModeMsg guifg=#cdcecd guibg=#000000 guisp=#000000 gui=NONE ctermfg=151 ctermbg=NONE cterm=NONE
 "hi CursorColumn -- no settings --
-hi Define guifg=#0000cd guibg=NONE guisp=NONE gui=NONE ctermfg=20 ctermbg=NONE cterm=NONE
+hi Define guifg=#407dc2 guibg=NONE guisp=NONE gui=NONE ctermfg=68 ctermbg=NONE cterm=NONE
 hi Function guifg=#de950d guibg=NONE guisp=NONE gui=NONE ctermfg=172 ctermbg=NONE cterm=NONE
 hi FoldColumn guifg=#ffffff guibg=#27408b guisp=#27408b gui=NONE ctermfg=15 ctermbg=18 cterm=NONE
 hi PreProc guifg=#04aeba guibg=NONE guisp=NONE gui=NONE ctermfg=37 ctermbg=NONE cterm=NONE
