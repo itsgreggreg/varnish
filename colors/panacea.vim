@@ -121,3 +121,7 @@ hi yamlkey guifg=#4f94cd guibg=NONE guisp=NONE gui=NONE ctermfg=74 ctermbg=NONE 
 hi variable guifg=#7587a6 guibg=NONE guisp=NONE gui=NONE ctermfg=103 ctermbg=NONE cterm=NONE
 "hi clear -- no settings --
 hi htmlendtag guifg=#cda869 guibg=NONE guisp=NONE gui=NONE ctermfg=179 ctermbg=NONE cterm=NONE
+
+" Language Specific
+" Elixir
+hi elixirUnusedVariable guifg=#606060 guibg=NONE guisp=NONE gui=italic ctermfg=241 ctermbg=NONE cterm=NONE
