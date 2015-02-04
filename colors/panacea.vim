@@ -13,6 +13,9 @@ let g:colors_name = "panacea"
 
 " Manualy edited
 hi ColorColumn guibg=#1d1d1d guifg=NONE guisp=NONE gui=NONE ctermfg=NONE ctermbg=233 cterm=NONE
+" Language Specific
+" Elixir
+hi elixirUnusedVariable guifg=#606060 guibg=NONE guisp=NONE gui=italic ctermfg=241 ctermbg=NONE cterm=NONE
 
 " Edited in Vivify
 hi IncSearch guifg=#212121 guibg=#b6b6b6 guisp=#b6b6b6 gui=NONE ctermfg=234 ctermbg=249 cterm=NONE
@@ -122,6 +125,3 @@ hi variable guifg=#7587a6 guibg=NONE guisp=NONE gui=NONE ctermfg=103 ctermbg=NON
 "hi clear -- no settings --
 hi htmlendtag guifg=#cda869 guibg=NONE guisp=NONE gui=NONE ctermfg=179 ctermbg=NONE cterm=NONE
 
-" Language Specific
-" Elixir
-hi elixirUnusedVariable guifg=#606060 guibg=NONE guisp=NONE gui=italic ctermfg=241 ctermbg=NONE cterm=NONE
